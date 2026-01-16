@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Carlos Diaz
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Backend+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Coffee+Drinker+%E2%98%95;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Coffee+Drinker+%E2%98%95;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
