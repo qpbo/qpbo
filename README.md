@@ -65,48 +65,43 @@ const developer = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qpbo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qpbo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qpbo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qpbo&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
+</p>
 
-<br/>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=qpbo&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=qpbo&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" width="65%" />
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Gráfico de Contribuciones
 
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/qpbo/qpbo/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/qpbo/qpbo/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=qpbo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+> **Nota:** Si no ves la serpiente animada arriba, es porque el workflow aún no se ha ejecutado.  
+> Ve a tu repositorio → pestaña **Actions** → **Generate Snake Animation** → **Run workflow**
 
 ---
 
-## 📈 Activity Graph
+## 🏆 Logros de GitHub
 
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qpbo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=qpbo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
-</div>
+---
+
+## 📈 Gráfico de Actividad
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qpbo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7ff&line=00f7ff&point=00f7ff" alt="Activity Graph" width="95%" />
+</p>
 
 ---
 
