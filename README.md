@@ -84,9 +84,6 @@ const developer = {
   <img src="https://raw.githubusercontent.com/qpbo/qpbo/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
-> **Nota:** Si no ves la serpiente animada arriba, es porque el workflow aún no se ha ejecutado.  
-> Ve a tu repositorio → pestaña **Actions** → **Generate Snake Animation** → **Run workflow**
-
 ---
 
 ## 🏆 Logros de GitHub
