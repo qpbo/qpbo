@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Carlos Diaz
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Coffee+Drinker+%E2%98%95;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Backend+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Coffee+Drinker+%E2%98%95;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
@@ -68,12 +68,14 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qpbo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qpbo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qpbo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qpbo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=qpbo&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=qpbo&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
 </div>
 
 ---
